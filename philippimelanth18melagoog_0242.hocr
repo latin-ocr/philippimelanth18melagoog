@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philippimelanth18melagoog/philippimelanth18melagoog_0242.png"; bbox 0 0 4748 6022; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 673 1962 1568 2121">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 673 1962 1568 2121">
+     <span class='ocr_line' id='line_1_1' title="bbox 673 1962 1568 2121; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 673 1962 985 2121; x_wconf 73' lang='lat' dir='ltr'>PHILIPPI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1048 2030 1568 2121; x_wconf 69' lang='grc' dir='ltr'>ΜΕΙιΑΝΊἯΟΝΙΒ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 477 2324 1763 2485">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 477 2266 1763 2485">
+     <span class='ocr_line' id='line_1_2' title="bbox 477 2324 1763 2485; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 477 2324 1763 2485; x_wconf 68' lang='grc' dir='ltr'><strong>οΑκΜιΝΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 773 2652 1462 2786">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 773 2652 1462 2786">
+     <span class='ocr_line' id='line_1_3' title="bbox 773 2652 1462 2786; baseline -0.004 -15"><span class='ocrx_word' id='word_1_4' title='bbox 773 2704 906 2786; x_wconf 66' lang='lat' dir='ltr'><strong>Qum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 946 2652 1248 2770; x_wconf 62' lang='lat' dir='ltr'><strong>snfinflsum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1291 2702 1462 2768; x_wconf 56' lang='lat' dir='ltr'><strong>omn„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2378 6020">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2378 6020">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2378 6020; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2378 6020; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
